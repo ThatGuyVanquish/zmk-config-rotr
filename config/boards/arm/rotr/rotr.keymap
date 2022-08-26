@@ -26,7 +26,7 @@
 		};
 		two {
 			//PREV | PLAY/PAUSE | NEXT
-			bindings = <&kp LEFT &lt 4 SPACE &kp RIGHT>;
+			bindings = <&kp C_AL_CALC &lt 4 C_AL_FILES &kp C_AL_TEXT_EDITOR>;
 			sensor-bindings = <&inc_dec_kp PG_UP PG_DN>;
 		};
 		three {
